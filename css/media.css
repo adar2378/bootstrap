@@ -1,0 +1,28 @@
+@media (max-width: 768px) { .header{
+    min-height: 400px;
+    background-image: none;
+    background-color: #648CFF;
+    
+}
+    .navbar {
+    border-radius: 4px;
+}
+   
+.navbar-nav>li {
+    float: left;
+    display: block;
+}
+.navbar-nav>li>a {
+    padding-top: 15px;
+    padding-bottom: 15px;
+}
+
+}
+
+@media (min-width: 769px) and (max-width: 991px ) { 
+    
+
+
+ }
+@media (min-width: 992px) and (max-width: 1199px) { ... }
+@media (min-width: 1200px) { ... }
